@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-04-15
+# Last update: 2026-04-16
 #
-# Number of blocked domains:  103460
+# Number of blocked domains:  103459
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -25479,7 +25479,6 @@
 0.0.0.0  f.vanein.com
 0.0.0.0  f.vansfs.com
 0.0.0.0  f.zeroredirect2.com
-0.0.0.0  f003.backblazeb2.com
 0.0.0.0  f05098.privacy4browsers.com
 0.0.0.0  f1.five88.com
 0.0.0.0  f1.macauclub.fun
